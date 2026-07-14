@@ -1,0 +1,2 @@
+# lakesgrandresort
+Static site: lakesgrandresort
